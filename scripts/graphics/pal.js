@@ -12,5 +12,5 @@ Pal.missileYellowBack = Color.valueOf("a2a4b7");
 Pal.darkerMetal = Color.valueOf("2d2c32");
 Pal.heal = Color.valueOf("ffffff");
 Pal.accent = Color.valueOf("ffffff");
-Pal.accentBack = Color.valueOf("a2a4b7")
+Pal.accentBack = Color.valueOf("a2a4b7");
 });
