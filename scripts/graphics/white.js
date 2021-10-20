@@ -15,6 +15,5 @@ UnitTypes.zenith.weapons.get(0).bullet.backColor = Color.valueOf("ffffff");
 UnitTypes.antumbra.weapons.get(0).bullet.backColor = Color.valueOf("ffffff");
 UnitTypes.antumbra.weapons.get(1).bullet.backColor = Color.valueOf("ffffff");
 UnitTypes.antumbra.weapons.get(2).bullet.backColor = Color.valueOf("ffffff");
-UnitTypes.eclipse.weapons.get(1).bullet.backColor = Color.valueOf("ffffff");
 UnitTypes.eclipse.weapons.get(2).bullet.backColor = Color.valueOf("ffffff");
 });
