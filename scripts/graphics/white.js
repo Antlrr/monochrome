@@ -19,5 +19,4 @@ UnitTypes.eclipse.weapons.get(2).bullet.backColor = Color.valueOf("ffffff");
 UnitTypes.retusa.weapons.get(0).bullet.backColor = Color.valueOf("ffffff");
 UnitTypes.cyerce.weapons.get(0).bullet.backColor = Color.valueOf("ffffff");
 UnitTypes.navanax.weapons.get(2).bullet.backColor = Color.valueOf("ffffff");
-UnitTypes.navanax.weapons.get(3).bullet.backColor = Color.valueOf("ffffff");
 });
